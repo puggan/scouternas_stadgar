@@ -376,9 +376,10 @@ Följande ärenden ska förekomma.
 8. Behandling av motioner och propositioner till distriktsstämman
 9. Fastställande av medlemsavgift, verksamhetsplan samt budget för det närmast följande verksamhetsåret
 10. Val av distriktsordförande
-11. Val av övriga ledamöter i distriktsstyrelsen
-12. Val av revisorer och revisorssuppleanter
-13. Val av sammankallande och övriga ledamöter i distriktsstämmans valberedning
+11. (new)
+12. Val av övriga ledamöter i distriktsstyrelsen
+13. Val av revisorer och revisorssuppleanter
+14. Val av sammankallande och övriga ledamöter i distriktsstämmans valberedning
 
 **§ 8.9 Extra möte med distriktsstämman**  
 Extra distriktsstämma ska hållas, om distriktsstyrelsen anser att det behövs eller om minst en fjärdedel av kårerna begär det och då inom en månad efter framställning om detta till distriktsstyrelsen.
