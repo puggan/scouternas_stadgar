@@ -264,6 +264,11 @@ Scouternas styrelse kan utse en eller flera ledamöter av styrelsen, eller annan
 Bemyndigandet får endast lämnas till den som är myndig och kan förbindas med föreskrift om att rätten till firmateckning endast får utövas gemensamt av två eller flera personer.
 Firmatecknaren har samma behörighet som Scouternas styrelse enligt § 6.4.
 
+**§ 6.6 Generalsekreterare**  
+Scouternas styrelse kan utse en generalsekreterare för viss tid.
+Generalsekreteraren fattar då beslut i enlighet med den delegationsordningen som styrelsen beslutar.
+Generalsekreteraren är föredragande i styrelsen, har yttranderätt i styrelsen samt äger rätt att till protokollet föra avvikande mening.
+
 ## Avsnitt 3: Lokal och regional struktur
 ### Kapitel 7: Scoutkår
 
