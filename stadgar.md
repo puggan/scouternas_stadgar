@@ -91,7 +91,7 @@ Vid närmast följande ordinarie stämma ska Scouternas styrelse rapportera äre
 ### Kapitel 4: Medlemskap
 
 **§ 4.1 Medlemskap**  
-Medlem i Scouterna är den som efter aktiv handling erhållit medlemskap i en scoutkår, har betalat medlemsavgift i enlighet med § 4.3 och finns upptagen i medlemsregister i enlighet med § 4.5.
+Medlem i Scouterna är den som efter aktiv handling erhållit medlemskap i en scoutkår, finns upptagen i medlemsregister i enlighet med § 4.5 och genom aktiv handling årligen bekräftar sitt medlemskap.
 
 **§ 4.2**  
 Riksorganisationen får inte utestänga någon från medlemskap på grund av kön, könsöverskridande identitet eller uttryck, religion, etnisk tillhörighet, funktionsnedsättning eller sexuell läggning.
