@@ -50,6 +50,8 @@ Jag lovar att efter bästa förmåga följa scoutlagen
 **§ 2.1 Scouternas ledning**  
 Scouternas högsta beslutande organ är Scouternas stämma.
 Stämmans beslut verkställs av Scouternas styrelse som även ska förvalta organisationens angelägenheter.
+Scouternas styrelse kan fatta beslut om att biträdas av en generalsekreterare.
+Generalsekreteraren ansvarar då gentemot styrelsen för den löpande förvaltningen.
 
 **§ 2.2 Föreskrifter utöver stadgarna**  
 Scouternas styrelse får utfärda bestämmelser för scoutverksamheten.
@@ -78,7 +80,7 @@ Samverkan med Scouterna grundar sig på att alla medlemmar inom en samverkansorg
 Anslutning sker antingen genom individuellt ställningstagande eller kollektivt via samverkansorganisationen.
 Medlemskapet är dock alltid individuellt.
 En samverkansorganisation har rätt att sända fem observatörer till Scouternas stämma.
-Övriga rättigheter och skyldigheter mellan Scouterna och samverkansorganisationen regleras i avtal mellan parterna.
+Rättigheter och skyldigheter mellan Scouterna och samverkansorganisationen regleras i avtal mellan parterna.
 En samverkansorganisation kan utöver kriterierna i § 3.1 själv besluta om ytterligare medlemskriterier.
 
 **§ 3.3 Upphävning**  
@@ -89,7 +91,7 @@ Vid närmast följande ordinarie stämma ska Scouternas styrelse rapportera äre
 ### Kapitel 4: Medlemskap
 
 **§ 4.1 Medlemskap**  
-Medlem i Scouterna är den som efter aktiv handling erhållit medlemskap i en scoutkår, har betalat medlemsavgift i enlighet med § 4.3 och finns upptagen i medlemsregister i enlighet med § 4.5.
+Medlem i Scouterna är den som efter aktiv handling erhållit medlemskap i en scoutkår, finns upptagen i medlemsregister i enlighet med § 4.5 och genom aktiv handling årligen bekräftar sitt medlemskap.
 
 **§ 4.2**  
 Riksorganisationen får inte utestänga någon från medlemskap på grund av kön, könsöverskridande identitet eller uttryck, religion, etnisk tillhörighet, funktionsnedsättning eller sexuell läggning.
@@ -103,12 +105,10 @@ Medlemsavgiften består av följande delar:
 
 Varje avgift fastställs i enlighet med respektive organisations stadgar.
 Medlemsavgiften kan subventioneras av scoutkåren, scoutdistriktet och samverkansorganisationen.
-Medlemsavgiften till Scouterna är lika för samtliga medlemmar.
-Scouternas styrelse ansvarar för att varje medlem faktureras avgift till riksorganisation samt om kåren och eventuellt distrikt och/eller samverkansorganisation så önskar, även avgift till denna.
 Kåren är betalningsskyldig för registrerade medlemmars avgifter till riksorganisation och eventuellt distrikt.
 
 **§ 4.4 Avslutande av medlemskap**  
-Medlemskap upphör om medlem ber att få lämna riksorganisationen eller inte förnyar sitt medlemskap enligt § 4.1.
+Medlemskap upphör om medlem ber att få lämna riksorganisationen.
 Medlem som motarbetar Scouternas syfte kan uteslutas genom beslut av kårstyrelse eller av Scouternas styrelse efter samråd med scoutkåren.
 Beslutet ska meddelas Scouternas styrelse.
 Beslut om uteslutning kan överklagas till Scouternas styrelse.
@@ -129,7 +129,7 @@ Scoutkårer som anslutits under året då stämman hålls har rätt att utse ett
 
 **§ 5.2 Överlåtelse av ombudskap**  
 Scoutkår har rätt att överlåta sin(a) röst(er) till Scouternas stämma till annan kår, distrikt eller samverkansorganisation.
-Överlåtelse av röst(er) ska ske genom skriftlig fullmakt.
+Överlåtelse av röst(er) ska ske genom fullmakt.
 
 **§ 5.3 Kallelse och handlingar till Scouternas stämma**  
 Kallelse till Scouternas stämma ska utfärdas av Scouternas styrelse och ska för ordinarie stämma vara scoutkårerna tillhanda minst fyra månader, samt för extra stämma minst två månader, före stämmans öppnande.
@@ -179,17 +179,18 @@ Följande ärenden ska förekomma:
 2. Fastställande av röstlängden
 3. Fråga om kallelsen till Scouternas stämma skett på korrekt sätt
 4. Fastställande av föredragningslista
-5. Föredragning av styrelsens förvaltningsberättelse, verksamhetsberättelse, resultaträkning, balansräkning och revisionsberättelse för det närmast föregående verksamhetsåret samt de två föregående årens verksamhetsberättelser
-6. Fråga om fastställande av balans- och resultaträkning samt om beviljande av ansvarsfrihet för styrelsens ledamöter för det närmast föregående verksamhetsåret
+5. Föredragning av styrelsens och i förekommande fall generalsekreterarens förvaltningsberättelse, verksamhetsberättelse, resultaträkning, balansräkning och revisionsberättelse för det närmast föregående verksamhetsåret samt de två föregående årens verksamhetsberättelser
+6. Fråga om fastställande av balans- och resultaträkning samt om beviljande av ansvarsfrihet för styrelsens ledamöter och i förekommande fall generalsekreteraren för det närmast föregående verksamhetsåret
 7. Beslut i anledning av riksorganisationens vinst eller förlust enligt den fastställda balansräkningen
 8. Behandling av motioner och propositioner till Scouternas stämma
 9. Fastställande av medlemsavgift, verksamhetsplan inklusive budget och finansiella mål för nästföljande två verksamhetsår
 10. Val av ordförande i Scouternas styrelse
-11. Val av övriga ledamöter i Scouternas styrelse
-12. Val av revisorer enligt § 5.12
-13. Val av ledamöter och suppleanter i förvaltningsmötet
-14. Val av sammankallande och övriga ledamöter i Scouternas valberedning
-15. Övriga ärenden
+11. Beslut om val av antalet ledamöter i Scouternas styrelse
+12. Val av övriga ledamöter i Scouternas styrelse
+13. Val av revisorer bekräftas (i enligt med § 5.12)
+14. Val av ombud och suppleanter i förvaltningsmötet
+15. Val av sammankallande och övriga ledamöter i Scouternas valberedning
+16. Övriga ärenden
 
 **§ 5.8 Extra möte med Scouternas stämma**  
 Extra möte med Scouternas stämma ska hållas om Scouternas styrelse anser att det behövs eller om förvaltningsmötet begär det eller om minst en tiondel av kårerna begär det och då inom tre månader efter framställningen om detta till Scouternas styrelse.
@@ -204,23 +205,24 @@ Valberedningen arbetar i enlighet med instruktion fastställd av Scouternas stä
 
 **§ 5.10 Fastställande av balansräkning, beviljande av ansvarsfrihet samt beslut i anledning av resultatet, under år då Scouternas stämma ej hålls (förvaltningsmöte)**  
 Under de år då Scouternas stämma ej äger rum fattas beslut angående balans- och resultaträkning samt beviljande av ansvarsfrihet av förvaltningsmötet.
-Till förvaltningsmötet ska 45 ledamöter kallas.
-För att förvaltningsmötet skall vara beslutsfört krävs att minst hälften av de kallade ledamöterna är närvarande.
-Samtliga ledamöter ska vara medlemmar i Scouterna.
-Förvaltningsmötets ledamöter väljs av Scouternas stämma.
+Till förvaltningsmötet ska 45 ombud kallas.
+För att förvaltningsmötet skall vara beslutsfört krävs att minst hälften av de kallade ombuden är närvarande.
+Samtliga ombud ska vara medlemmar i Scouterna.
+Förvaltningsmötets ombud väljs av Scouternas stämma.
 Scouternas stämma kan välja att delegera eventuella andra ärenden till förvaltningsmötet.
 Mötet ska hållas senast i november månad och kallelse till mötet ska utfärdas av Scouternas styrelse senast två månader före mötet.
-Samtliga handlingar till förvaltningsmötet ska vara förvaltningsmötets ledamöter tillhanda och finnas tillgängligt för kårer och distrikt senast två månader innan mötet.
+Samtliga handlingar till förvaltningsmötet ska vara förvaltningsmötets ombud tillhanda och finnas tillgängligt för kårer och distrikt senast två månader innan mötet.
 Scouternas styrelse ansvarar för att protokoll förs.
 Protokollet ska justeras av mötesordförande och protokolljusterarna som alla väljs av mötet.
-Beslut enligt denna paragraf får om samtliga till mötet utsedda ledamöter är ense om det, fattas per capsulam (per brev, e-post eller motsvarande).
+Beslut enligt denna paragraf får om samtliga till mötet utsedda ombud är ense om det, fattas per capsulam (per brev, e-post eller motsvarande).
 
 **§ 5.11 Årsredovisning**  
 Scouternas verksamhetsår är kalenderår.
 Scouternas räkenskaper ska per den 31 december varje år sammanföras i fullständigt bokslut.
 Årsredovisning tillsammans med övrigt revisionsunderlag ska senast den 1 april påföljande år överlämnas till revisorerna för granskning.
 Revisorerna ska senast den 15 maj återlämna handlingarna med berättelse över deras granskning till Scouternas styrelse.
-Förvaltningsberättelse med noter, verksamhetsberättelse, resultaträkning, balansräkning och revisionsberättelse ska av Scouternas styrelse göras tillgänglig för medlemmarna senast den 30 juni och framläggas för nästa ordinarie Scouternas stämma.
+Årsredovisningen med noter, resultaträkning, balansräkning och revisionsberättelse ska av Scouternas styrelse och i förekommande fall generalsekreterare undertecknas.
+Årsredovisning och verksamhetsberättelse ska göras tillgänglig för medlemmarna senast den 30 juni och framläggas för nästa ordinarie Scouternas stämma.
 
 **§ 5.12 Revision**  
 Scouternas stämma väljer två verksamhetsrevisorer.
@@ -261,6 +263,11 @@ Scouternas styrelse företräder Scouterna gentemot tredje man.
 Scouternas styrelse kan utse en eller flera ledamöter av styrelsen, eller annan person, att teckna riksorganisationens firma.
 Bemyndigandet får endast lämnas till den som är myndig och kan förbindas med föreskrift om att rätten till firmateckning endast får utövas gemensamt av två eller flera personer.
 Firmatecknaren har samma behörighet som Scouternas styrelse enligt § 6.4.
+
+**§ 6.6 Generalsekreterare**  
+Scouternas styrelse kan utse en generalsekreterare för viss tid.
+Generalsekreteraren fattar då beslut i enlighet med den delegationsordningen som styrelsen beslutar.
+Generalsekreteraren är föredragande i styrelsen, har yttranderätt i styrelsen samt äger rätt att till protokollet föra avvikande mening.
 
 ## Avsnitt 3: Lokal och regional struktur
 ### Kapitel 7: Scoutkår
@@ -369,9 +376,10 @@ Följande ärenden ska förekomma.
 8. Behandling av motioner och propositioner till distriktsstämman
 9. Fastställande av medlemsavgift, verksamhetsplan samt budget för det närmast följande verksamhetsåret
 10. Val av distriktsordförande
-11. Val av övriga ledamöter i distriktsstyrelsen
-12. Val av revisorer och revisorssuppleanter
-13. Val av sammankallande och övriga ledamöter i distriktsstämmans valberedning
+11. Val av antal ledamöter i distriktsstyrelsen
+12. Val av övriga ledamöter i distriktsstyrelsen
+13. Val av revisorer och revisorssuppleanter
+14. Val av sammankallande och övriga ledamöter i distriktsstämmans valberedning
 
 **§ 8.9 Extra möte med distriktsstämman**  
 Extra distriktsstämma ska hållas, om distriktsstyrelsen anser att det behövs eller om minst en fjärdedel av kårerna begär det och då inom en månad efter framställning om detta till distriktsstyrelsen.
