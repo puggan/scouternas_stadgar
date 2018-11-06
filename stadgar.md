@@ -129,7 +129,7 @@ Scoutkårer som anslutits under året då stämman hålls har rätt att utse ett
 
 **§ 5.2 Överlåtelse av ombudskap**  
 Scoutkår har rätt att överlåta sin(a) röst(er) till Scouternas stämma till annan kår, distrikt eller samverkansorganisation.
-Överlåtelse av röst(er) ska ske genom skriftlig fullmakt.
+Överlåtelse av röst(er) ska ske genom fullmakt.
 
 **§ 5.3 Kallelse och handlingar till Scouternas stämma**  
 Kallelse till Scouternas stämma ska utfärdas av Scouternas styrelse och ska för ordinarie stämma vara scoutkårerna tillhanda minst fyra månader, samt för extra stämma minst två månader, före stämmans öppnande.
