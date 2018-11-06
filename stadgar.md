@@ -105,8 +105,6 @@ Medlemsavgiften består av följande delar:
 
 Varje avgift fastställs i enlighet med respektive organisations stadgar.
 Medlemsavgiften kan subventioneras av scoutkåren, scoutdistriktet och samverkansorganisationen.
-Medlemsavgiften till Scouterna är lika för samtliga medlemmar.
-Scouternas styrelse ansvarar för att varje medlem faktureras avgift till riksorganisation samt om kåren och eventuellt distrikt och/eller samverkansorganisation så önskar, även avgift till denna.
 Kåren är betalningsskyldig för registrerade medlemmars avgifter till riksorganisation och eventuellt distrikt.
 
 **§ 4.4 Avslutande av medlemskap**  
