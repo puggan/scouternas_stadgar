@@ -185,11 +185,12 @@ Följande ärenden ska förekomma:
 8. Behandling av motioner och propositioner till Scouternas stämma
 9. Fastställande av medlemsavgift, verksamhetsplan inklusive budget och finansiella mål för nästföljande två verksamhetsår
 10. Val av ordförande i Scouternas styrelse
-11. Val av övriga ledamöter i Scouternas styrelse
-12. Val av revisorer enligt § 5.12
-13. Val av ledamöter och suppleanter i förvaltningsmötet
-14. Val av sammankallande och övriga ledamöter i Scouternas valberedning
-15. Övriga ärenden
+11. (new)
+12. Val av övriga ledamöter i Scouternas styrelse
+13. Val av revisorer enligt § 5.12
+14. Val av ledamöter och suppleanter i förvaltningsmötet
+15. Val av sammankallande och övriga ledamöter i Scouternas valberedning
+16. Övriga ärenden
 
 **§ 5.8 Extra möte med Scouternas stämma**  
 Extra möte med Scouternas stämma ska hållas om Scouternas styrelse anser att det behövs eller om förvaltningsmötet begär det eller om minst en tiondel av kårerna begär det och då inom tre månader efter framställningen om detta till Scouternas styrelse.
