@@ -108,7 +108,7 @@ Medlemsavgiften kan subventioneras av scoutkåren, scoutdistriktet och samverkan
 Kåren är betalningsskyldig för registrerade medlemmars avgifter till riksorganisation och eventuellt distrikt.
 
 **§ 4.4 Avslutande av medlemskap**  
-Medlemskap upphör om medlem ber att få lämna riksorganisationen eller inte förnyar sitt medlemskap enligt § 4.1.
+Medlemskap upphör om medlem ber att få lämna riksorganisationen.
 Medlem som motarbetar Scouternas syfte kan uteslutas genom beslut av kårstyrelse eller av Scouternas styrelse efter samråd med scoutkåren.
 Beslutet ska meddelas Scouternas styrelse.
 Beslut om uteslutning kan överklagas till Scouternas styrelse.
