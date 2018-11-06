@@ -80,7 +80,7 @@ Samverkan med Scouterna grundar sig på att alla medlemmar inom en samverkansorg
 Anslutning sker antingen genom individuellt ställningstagande eller kollektivt via samverkansorganisationen.
 Medlemskapet är dock alltid individuellt.
 En samverkansorganisation har rätt att sända fem observatörer till Scouternas stämma.
-Övriga rättigheter och skyldigheter mellan Scouterna och samverkansorganisationen regleras i avtal mellan parterna.
+Rättigheter och skyldigheter mellan Scouterna och samverkansorganisationen regleras i avtal mellan parterna.
 En samverkansorganisation kan utöver kriterierna i § 3.1 själv besluta om ytterligare medlemskriterier.
 
 **§ 3.3 Upphävning**  
