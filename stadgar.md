@@ -376,7 +376,7 @@ Följande ärenden ska förekomma.
 8. Behandling av motioner och propositioner till distriktsstämman
 9. Fastställande av medlemsavgift, verksamhetsplan samt budget för det närmast följande verksamhetsåret
 10. Val av distriktsordförande
-11. (new)
+11. Val av antal ledamöter i distriktsstyrelsen
 12. Val av övriga ledamöter i distriktsstyrelsen
 13. Val av revisorer och revisorssuppleanter
 14. Val av sammankallande och övriga ledamöter i distriktsstämmans valberedning
