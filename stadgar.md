@@ -179,16 +179,16 @@ Följande ärenden ska förekomma:
 2. Fastställande av röstlängden
 3. Fråga om kallelsen till Scouternas stämma skett på korrekt sätt
 4. Fastställande av föredragningslista
-5. Föredragning av styrelsens förvaltningsberättelse, verksamhetsberättelse, resultaträkning, balansräkning och revisionsberättelse för det närmast föregående verksamhetsåret samt de två föregående årens verksamhetsberättelser
-6. Fråga om fastställande av balans- och resultaträkning samt om beviljande av ansvarsfrihet för styrelsens ledamöter för det närmast föregående verksamhetsåret
+5. Föredragning av styrelsens och i förekommande fall generalsekreterarens förvaltningsberättelse, verksamhetsberättelse, resultaträkning, balansräkning och revisionsberättelse för det närmast föregående verksamhetsåret samt de två föregående årens verksamhetsberättelser
+6. Fråga om fastställande av balans- och resultaträkning samt om beviljande av ansvarsfrihet för styrelsens ledamöter och i förekommande fall generalsekreteraren för det närmast föregående verksamhetsåret
 7. Beslut i anledning av riksorganisationens vinst eller förlust enligt den fastställda balansräkningen
 8. Behandling av motioner och propositioner till Scouternas stämma
 9. Fastställande av medlemsavgift, verksamhetsplan inklusive budget och finansiella mål för nästföljande två verksamhetsår
 10. Val av ordförande i Scouternas styrelse
-11. (new)
+11. Beslut om val av antalet ledamöter i Scouternas styrelse
 12. Val av övriga ledamöter i Scouternas styrelse
-13. Val av revisorer enligt § 5.12
-14. Val av ledamöter och suppleanter i förvaltningsmötet
+13. Val av revisorer bekräftas (i enligt med § 5.12)
+14. Val av ombud och suppleanter i förvaltningsmötet
 15. Val av sammankallande och övriga ledamöter i Scouternas valberedning
 16. Övriga ärenden
 
