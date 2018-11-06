@@ -221,7 +221,8 @@ Scouternas verksamhetsår är kalenderår.
 Scouternas räkenskaper ska per den 31 december varje år sammanföras i fullständigt bokslut.
 Årsredovisning tillsammans med övrigt revisionsunderlag ska senast den 1 april påföljande år överlämnas till revisorerna för granskning.
 Revisorerna ska senast den 15 maj återlämna handlingarna med berättelse över deras granskning till Scouternas styrelse.
-Förvaltningsberättelse med noter, verksamhetsberättelse, resultaträkning, balansräkning och revisionsberättelse ska av Scouternas styrelse göras tillgänglig för medlemmarna senast den 30 juni och framläggas för nästa ordinarie Scouternas stämma.
+Årsredovisningen med noter, resultaträkning, balansräkning och revisionsberättelse ska av Scouternas styrelse och i förekommande fall generalsekreterare undertecknas.
+Årsredovisning och verksamhetsberättelse ska göras tillgänglig för medlemmarna senast den 30 juni och framläggas för nästa ordinarie Scouternas stämma.
 
 **§ 5.12 Revision**  
 Scouternas stämma väljer två verksamhetsrevisorer.
