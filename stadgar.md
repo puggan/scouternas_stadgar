@@ -205,16 +205,16 @@ Valberedningen arbetar i enlighet med instruktion fastställd av Scouternas stä
 
 **§ 5.10 Fastställande av balansräkning, beviljande av ansvarsfrihet samt beslut i anledning av resultatet, under år då Scouternas stämma ej hålls (förvaltningsmöte)**  
 Under de år då Scouternas stämma ej äger rum fattas beslut angående balans- och resultaträkning samt beviljande av ansvarsfrihet av förvaltningsmötet.
-Till förvaltningsmötet ska 45 ledamöter kallas.
-För att förvaltningsmötet skall vara beslutsfört krävs att minst hälften av de kallade ledamöterna är närvarande.
-Samtliga ledamöter ska vara medlemmar i Scouterna.
-Förvaltningsmötets ledamöter väljs av Scouternas stämma.
+Till förvaltningsmötet ska 45 ombud kallas.
+För att förvaltningsmötet skall vara beslutsfört krävs att minst hälften av de kallade ombuden är närvarande.
+Samtliga ombud ska vara medlemmar i Scouterna.
+Förvaltningsmötets ombud väljs av Scouternas stämma.
 Scouternas stämma kan välja att delegera eventuella andra ärenden till förvaltningsmötet.
 Mötet ska hållas senast i november månad och kallelse till mötet ska utfärdas av Scouternas styrelse senast två månader före mötet.
-Samtliga handlingar till förvaltningsmötet ska vara förvaltningsmötets ledamöter tillhanda och finnas tillgängligt för kårer och distrikt senast två månader innan mötet.
+Samtliga handlingar till förvaltningsmötet ska vara förvaltningsmötets ombud tillhanda och finnas tillgängligt för kårer och distrikt senast två månader innan mötet.
 Scouternas styrelse ansvarar för att protokoll förs.
 Protokollet ska justeras av mötesordförande och protokolljusterarna som alla väljs av mötet.
-Beslut enligt denna paragraf får om samtliga till mötet utsedda ledamöter är ense om det, fattas per capsulam (per brev, e-post eller motsvarande).
+Beslut enligt denna paragraf får om samtliga till mötet utsedda ombud är ense om det, fattas per capsulam (per brev, e-post eller motsvarande).
 
 **§ 5.11 Årsredovisning**  
 Scouternas verksamhetsår är kalenderår.
