@@ -50,6 +50,8 @@ Jag lovar att efter bästa förmåga följa scoutlagen
 **§ 2.1 Scouternas ledning**  
 Scouternas högsta beslutande organ är Scouternas stämma.
 Stämmans beslut verkställs av Scouternas styrelse som även ska förvalta organisationens angelägenheter.
+Scouternas styrelse kan fatta beslut om att biträdas av en generalsekreterare.
+Generalsekreteraren ansvarar då gentemot styrelsen för den löpande förvaltningen.
 
 **§ 2.2 Föreskrifter utöver stadgarna**  
 Scouternas styrelse får utfärda bestämmelser för scoutverksamheten.
