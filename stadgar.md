@@ -184,8 +184,8 @@ Följande ärenden ska förekomma:
 7. Beslut i anledning av riksorganisationens vinst eller förlust enligt den fastställda balansräkningen
 8. Behandling av motioner och propositioner till Scouternas stämma
 9. Fastställande av medlemsavgift, verksamhetsplan inklusive budget och finansiella mål för nästföljande två verksamhetsår
-10. Val av ordförande i Scouternas styrelse
-11. Beslut om val av antalet ledamöter i Scouternas styrelse
+10. Beslut om antalet ledamöter i Scouternas styrelse
+11. Val av ordförande i Scouternas styrelse
 12. Val av övriga ledamöter i Scouternas styrelse
 13. Val av revisorer bekräftas (i enligt med § 5.12)
 14. Val av ombud och suppleanter i förvaltningsmötet
@@ -375,8 +375,8 @@ Följande ärenden ska förekomma.
 7. Beslut i anledning av distriktets vinst eller förlust enligt den fastställda balansräkningen
 8. Behandling av motioner och propositioner till distriktsstämman
 9. Fastställande av medlemsavgift, verksamhetsplan samt budget för det närmast följande verksamhetsåret
-10. Val av distriktsordförande
-11. Val av antal ledamöter i distriktsstyrelsen
+10. Beslut av antal ledamöter i distriktsstyrelsen
+11. Val av distriktsordförande
 12. Val av övriga ledamöter i distriktsstyrelsen
 13. Val av revisorer och revisorssuppleanter
 14. Val av sammankallande och övriga ledamöter i distriktsstämmans valberedning
